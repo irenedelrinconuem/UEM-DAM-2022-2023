@@ -1,4 +1,15 @@
 Correo de la profesora:
+<<<<<<< HEAD
 
 irene.delrincon@universidadeuropea.es
+<<<<<<< HEAD
 mariofernandezadamez
+=======
+Guillermo Garcia Moreno
+=======
+Autor: Miguel Lozano
+irene.delrincon@universidadeuropea.es
+>>>>>>> f11b3c26185cb5b40b1dd8133510e163f5cef314
+ffsdfsdfs
+>>>>>>> 32af7ced54da05e17b5e2436a42b6b220bb5bc24
+mariofernandezadamez version2
