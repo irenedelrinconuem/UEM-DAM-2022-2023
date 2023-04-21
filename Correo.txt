@@ -1,4 +1,10 @@
 Correo de la profesora:
+<<<<<<< HEAD
 
 irene.delrincon@universidadeuropea.es
 Guillermo Garcia Moreno
+=======
+Autor: Miguel Lozano
+irene.delrincon@universidadeuropea.es
+>>>>>>> f11b3c26185cb5b40b1dd8133510e163f5cef314
+ffsdfsdfs
